@@ -2,7 +2,7 @@
 
 #clone Daten/Skripte
 git clone https://github.com/KWAYER66/DataScienceTask/
-'\n'
+'/n'
 #Load Image
 docker pull heatonresearch/jupyter-python-r
 cd DataScienceTask
